@@ -24,5 +24,3 @@ The project consists of a PowerShell-based File Integrity Monitoring System that
 
 
 
-<h2>Project Highlights:</h2>
-
