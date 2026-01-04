@@ -19,7 +19,7 @@ The project consists of a PowerShell-based File Integrity Monitoring System that
 <h2>Eniviorments Used</h2>
 
 - <b>Windows OS</b>
-- <b>PowerShell Execution Enviorment</b>
+- <b>PowerShell Execution Enviorment (ISE)</b>
 
 
 
